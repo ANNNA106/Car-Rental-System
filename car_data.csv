@@ -1,0 +1,12 @@
+0,Toyo,9,4000,not_rented,-1,0,0
+2,Maru,10,8000,rented,0,0,2
+3,Kicha,6,5000,rented,1,0,3
+4,Waku,9,7000,rented,2,0,2
+5,Goju,6,10000,rented,1,0,2
+6,Jogu,8,5000,not_rented,-1,0,0
+7,Walla,5,12000,rented,0,0,6
+8,Cara,3,3000,rented,2,0,4
+9,Dora,5,7000,not_rented,-1,0,0
+10,Todo,4,2000,not_rented,-1,0,0
+11,Aoi,9,3000,not_rented,-1,0,0
+12,Hoi,10,6000,rented,6,1,4
