@@ -28,5 +28,6 @@ To use this car rental system, follow these steps:
 ## Assumption
 
 1. The user's name and password must not contain spaces
-2. 
+2. The car.csv file stores the information of one car in a single row, with ID, name, condition(out of 10), cost, rente/not rented, owner user ID, is owner employee(0/1), number of days for which it is rented.
+
 
